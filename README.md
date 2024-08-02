@@ -1,11 +1,5 @@
-# To-Do-List-Application-using-Vue.js
-This is a web application built with Vue.js and CSS that allows users to manage their to-do lists, categorized by business or personal. The lists are stored locally using localStorage, ensuring persistence even after page reloads.
+# Vue 3 + Vite
 
-Features:
-Add, edit, and delete tasks,
-Categorize tasks as business or personal,
-Persistent storage using localStorage,
-Responsive and user-friendly UI
+This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
 
-Contact
-For questions or suggestions, feel free to contact me at [apshete2003@gmail.com].
+Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
